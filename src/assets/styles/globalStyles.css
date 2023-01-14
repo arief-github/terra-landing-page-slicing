@@ -190,6 +190,7 @@
 /* style rules for footer */
 .footerWrapper {
     background-color: var(--color-green-100);
+    margin-top: 20px;
 }
 
 .footerLinks {
