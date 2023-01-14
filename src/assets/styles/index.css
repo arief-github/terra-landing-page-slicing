@@ -66,7 +66,18 @@
         grid-template-columns: repeat(3, 1fr);
         gap: 40px;
     }
-    
+}
+
+@media (max-width: 768px) {
+  .sectionOne__left,
+  .sectionFour__left {
+    order: 1;
+  }
+
+  .sectionOne__right,
+  .sectionFour__right {
+    order: 0;
+  }
 }
 
 @media (max-width: 576px) {
