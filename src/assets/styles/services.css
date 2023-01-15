@@ -59,6 +59,11 @@ body {
     color: var(--color-dark-75)
 }
 
+.amount {
+    font-weight: var(--font-abs-bold);
+    font-size: var(--h1);
+}
+
 .bi-check-lg {
     color: var(--color-dark-100);
 }
