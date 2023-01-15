@@ -50,6 +50,11 @@ body {
     color: var(--color-dark-75)     
 }
 
+.amount {
+    font-size: var(--h1);
+    font-weight: var(--font-abs-bold);
+}
+
 .info {
     color: var(--color-dark-75)
 }
